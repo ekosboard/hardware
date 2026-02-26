@@ -20,7 +20,7 @@ Additional hardware files, such as 3D CAD models, STEP files, or FreeCAD project
 
 ## License
 
-This project is licensed under the **CERN Open Hardware Licence (CERN-OHL-S) version 1.2**.  
+This project is licensed under the **CERN Open Hardware Licence (CERN-OHL-S) version 2**.  
 
 You are free to use, modify, and distribute these designs.  
 If you distribute modified versions, you must also release your changes under CERN-OHL-S.
